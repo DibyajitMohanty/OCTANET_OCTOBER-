@@ -55,10 +55,6 @@ body{
 ul{
     width: 70%;
     max-width: 450px;
-    /* display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center; */
 }
 
 ul li{
